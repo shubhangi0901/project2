@@ -1,0 +1,6 @@
+body{
+
+    background-image: url(./image/img1.jpg),url(./image/img3.jpg);
+    background-size: 50%,100%;
+    background-repeat: no-repeat;
+}
